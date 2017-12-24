@@ -6,7 +6,7 @@ plasma5-desktoptheme-neru-city
 ## Изображение (может немного отличатся от оригинала)
 
 ![Screenshot](screenshot.png)
-
+![Screenshot](screenshot2.png)
 ## Особенности
 
 * Белая тема
